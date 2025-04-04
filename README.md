@@ -10,6 +10,10 @@ https://ai.azure.com 사이트에서 "Sign In" 버튼을 클릭합니다.
 
 ![image](https://github.com/user-attachments/assets/3faba298-4d8c-46a2-8224-fa8e217c4e56)
 
-할당받은 패스워드로 로그인 합니다.
+할당받은 패스워드로 로그인 합니다.  초기 패스워드를 변경합니다.
+
+![image](https://github.com/user-attachments/assets/15402755-75e7-49c0-a308-7476996dbd5c)
+
+
 
 ## 
