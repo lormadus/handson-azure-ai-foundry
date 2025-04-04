@@ -14,6 +14,39 @@ https://ai.azure.com 사이트에서 "Sign In" 버튼을 클릭합니다.
 
 ![image](https://github.com/user-attachments/assets/15402755-75e7-49c0-a308-7476996dbd5c)
 
+Next를 눌러 다음으로 이동합니다.
+
+![image](https://github.com/user-attachments/assets/a083dc72-fab6-4f1d-b435-dd607548939f)
+
+Next를 통해 Authenticator 앱을 설치합니다.
+
+![image](https://github.com/user-attachments/assets/65a277dd-adb3-4e70-ace5-0802cd5bcfa2)
+
+Next를 눌러 계정을 설정합니다.
+
+![image](https://github.com/user-attachments/assets/adb19a92-a50b-4608-bf9c-85da4b6183dc)
+
+QR코드를 스캔 후 Authenticator 앱에 계정을 등록합니다.
+
+![image](https://github.com/user-attachments/assets/90b413d2-8e5c-49aa-b017-eaf2699a5b64)
+
+앱에서 화면에 나타난 임시 인증 코드를 입력합니다.
+
+![image](https://github.com/user-attachments/assets/d36ff12c-a070-4125-8833-4b7ddc8fdef2)
 
 
-## 
+![image](https://github.com/user-attachments/assets/ba77d864-cdbc-45cb-b7a4-64c23cf4bc3e)
+
+
+![image](https://github.com/user-attachments/assets/48bb801a-dcd6-4216-bfc7-c350926fa688)
+
+
+![image](https://github.com/user-attachments/assets/0a1cc276-b8d0-43ca-a8a2-edf2b7638411)
+
+
+![image](https://github.com/user-attachments/assets/8f8abaea-44a0-433e-a7a7-7de91641bb95)
+
+![image](https://github.com/user-attachments/assets/2bd7a80e-f23e-44f7-8d25-f6d8d3e789ae)
+
+
+## 프로젝트 생성 ##
