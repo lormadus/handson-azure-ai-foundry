@@ -34,6 +34,7 @@ Authenticator 앱에서 QR코드를 스캔 후 계정을 등록합니다.
 
 ![image](https://github.com/user-attachments/assets/d36ff12c-a070-4125-8833-4b7ddc8fdef2)
 
+휴대폰 번호를 등록 후 2차 인증을 진행합니다.
 
 ![image](https://github.com/user-attachments/assets/ba77d864-cdbc-45cb-b7a4-64c23cf4bc3e)
 
