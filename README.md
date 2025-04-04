@@ -18,7 +18,7 @@ Next를 눌러 다음으로 이동합니다.
 
 ![image](https://github.com/user-attachments/assets/a083dc72-fab6-4f1d-b435-dd607548939f)
 
-Next를 통해 Authenticator 앱을 설치합니다.
+Google Play 또는 App Store에서 Authenticator 앱을 설치합니다.
 
 ![image](https://github.com/user-attachments/assets/65a277dd-adb3-4e70-ace5-0802cd5bcfa2)
 
@@ -26,7 +26,7 @@ Next를 눌러 계정을 설정합니다.
 
 ![image](https://github.com/user-attachments/assets/adb19a92-a50b-4608-bf9c-85da4b6183dc)
 
-QR코드를 스캔 후 Authenticator 앱에 계정을 등록합니다.
+Authenticator 앱에서 QR코드를 스캔 후 계정을 등록합니다.
 
 ![image](https://github.com/user-attachments/assets/90b413d2-8e5c-49aa-b017-eaf2699a5b64)
 
