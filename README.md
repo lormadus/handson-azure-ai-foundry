@@ -1,4 +1,5 @@
-
+## ChatGPT를 활용한 학습 ##
+[1. ChatGPT 프롬프트 예제]()
 
 ## Azure AI Foundry를 통한 AI모델 배포 및 테스트 ##
 
