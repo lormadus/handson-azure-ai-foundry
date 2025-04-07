@@ -1,5 +1,5 @@
 ## ChatGPT를 활용한 학습 ##
-[1. ChatGPT 프롬프트 예제]()
+[1. ChatGPT 프롬프트 예제](https://github.com/lormadus/handson-azure-ai-foundry/blob/main/chatgpt/1.ChatGPT%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.md)
 
 ## Azure AI Foundry를 통한 AI모델 배포 및 테스트 ##
 
